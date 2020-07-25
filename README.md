@@ -23,8 +23,8 @@ https://github.com/tweepy/tweepy
 
 Or maybe just type 
 
-pip install tweepy
-
+```pip install tweepy
+```
 in your CLI
 
 
